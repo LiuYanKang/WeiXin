@@ -11,3 +11,10 @@ C:\Users\toy\Desktop\微信源码\MxWeiXinPF.DBUtility\bin\Release\MxWeiXinPF.Co
 C:\Users\toy\Desktop\微信源码\MxWeiXinPF.DBUtility\obj\Release\MxWeiXinPF.DBUtility.csprojResolveAssemblyReference.cache
 C:\Users\toy\Desktop\微信源码\MxWeiXinPF.DBUtility\obj\Release\MxWeiXinPF.DBUtility.dll
 C:\Users\toy\Desktop\微信源码\MxWeiXinPF.DBUtility\obj\Release\MxWeiXinPF.DBUtility.pdb
+C:\Git项目\WeiXin\MxWeiXinPF.DBUtility\bin\Release\MxWeiXinPF.DBUtility.dll
+C:\Git项目\WeiXin\MxWeiXinPF.DBUtility\bin\Release\MxWeiXinPF.DBUtility.pdb
+C:\Git项目\WeiXin\MxWeiXinPF.DBUtility\bin\Release\MxWeiXinPF.Common.dll
+C:\Git项目\WeiXin\MxWeiXinPF.DBUtility\bin\Release\MxWeiXinPF.Common.pdb
+C:\Git项目\WeiXin\MxWeiXinPF.DBUtility\obj\Release\MxWeiXinPF.DBUtility.csprojResolveAssemblyReference.cache
+C:\Git项目\WeiXin\MxWeiXinPF.DBUtility\obj\Release\MxWeiXinPF.DBUtility.dll
+C:\Git项目\WeiXin\MxWeiXinPF.DBUtility\obj\Release\MxWeiXinPF.DBUtility.pdb

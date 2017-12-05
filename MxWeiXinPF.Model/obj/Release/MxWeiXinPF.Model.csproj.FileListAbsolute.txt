@@ -12,3 +12,10 @@ C:\Users\toy\Desktop\微信源码\MxWeiXinPF.Model\bin\Release\MxWeiXinPF.Common
 C:\Users\toy\Desktop\微信源码\MxWeiXinPF.Model\obj\Release\MxWeiXinPF.Model.csprojResolveAssemblyReference.cache
 C:\Users\toy\Desktop\微信源码\MxWeiXinPF.Model\obj\Release\MxWeiXinPF.Model.dll
 C:\Users\toy\Desktop\微信源码\MxWeiXinPF.Model\obj\Release\MxWeiXinPF.Model.pdb
+C:\Git项目\WeiXin\MxWeiXinPF.Model\bin\Release\MxWeiXinPF.Model.dll
+C:\Git项目\WeiXin\MxWeiXinPF.Model\bin\Release\MxWeiXinPF.Model.pdb
+C:\Git项目\WeiXin\MxWeiXinPF.Model\bin\Release\MxWeiXinPF.Common.dll
+C:\Git项目\WeiXin\MxWeiXinPF.Model\bin\Release\MxWeiXinPF.Common.pdb
+C:\Git项目\WeiXin\MxWeiXinPF.Model\obj\Release\MxWeiXinPF.Model.csprojResolveAssemblyReference.cache
+C:\Git项目\WeiXin\MxWeiXinPF.Model\obj\Release\MxWeiXinPF.Model.dll
+C:\Git项目\WeiXin\MxWeiXinPF.Model\obj\Release\MxWeiXinPF.Model.pdb

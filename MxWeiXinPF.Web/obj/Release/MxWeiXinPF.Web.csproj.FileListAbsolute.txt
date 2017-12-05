@@ -34,3 +34,7 @@ Q:\weixin\MxWeiXinPF.Web.dll
 Q:\weixin\MxWeiXinPF.Web.XmlSerializers.dll
 Q:\weixin\MxWeiXinPF.Web.pdb
 C:\Users\toy\Desktop\微信源码\MxWeiXinPF.Web\obj\Release\MxWeiXinPF.Web.dll
+C:\Git项目\WeiXin\MxWeiXinPF.Web\obj\Release\MxWeiXinPF.Web.csprojResolveAssemblyReference.cache
+C:\Git项目\WeiXin\MxWeiXinPF.Web\obj\Release\MxWeiXinPF.Web.dll
+C:\Git项目\WeiXin\MxWeiXinPF.Web\obj\Release\MxWeiXinPF.Web.pdb
+C:\Git项目\WeiXin\MxWeiXinPF.Web\obj\Release\MxWeiXinPF.Web.XmlSerializers.dll

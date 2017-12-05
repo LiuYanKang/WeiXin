@@ -32,6 +32,5 @@ D:\远拓软件文档\微信源码\MxWeiXinPF.Common\obj\Debug\MxWeiXinPF.Common
 D:\远拓软件文档\微信源码\MxWeiXinPF.Common\obj\Debug\MxWeiXinPF.Common.pdb
 C:\Git项目\WeiXin\MxWeiXinPF.Common\bin\Debug\MxWeiXinPF.Common.dll
 C:\Git项目\WeiXin\MxWeiXinPF.Common\bin\Debug\MxWeiXinPF.Common.pdb
-C:\Git项目\WeiXin\MxWeiXinPF.Common\obj\Debug\MxWeiXinPF.Common.csprojResolveAssemblyReference.cache
 C:\Git项目\WeiXin\MxWeiXinPF.Common\obj\Debug\MxWeiXinPF.Common.dll
 C:\Git项目\WeiXin\MxWeiXinPF.Common\obj\Debug\MxWeiXinPF.Common.pdb

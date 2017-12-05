@@ -32,6 +32,5 @@ D:\远拓软件文档\微信源码\VTemplate.Engine\obj\Debug\VTemplate.Engine.d
 D:\远拓软件文档\微信源码\VTemplate.Engine\obj\Debug\VTemplate.Engine.pdb
 C:\Git项目\WeiXin\VTemplate.Engine\bin\Debug\VTemplate.Engine.dll
 C:\Git项目\WeiXin\VTemplate.Engine\bin\Debug\VTemplate.Engine.pdb
-C:\Git项目\WeiXin\VTemplate.Engine\obj\Debug\VTemplate.Engine.csprojResolveAssemblyReference.cache
 C:\Git项目\WeiXin\VTemplate.Engine\obj\Debug\VTemplate.Engine.dll
 C:\Git项目\WeiXin\VTemplate.Engine\obj\Debug\VTemplate.Engine.pdb
