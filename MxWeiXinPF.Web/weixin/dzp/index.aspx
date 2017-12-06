@@ -166,10 +166,10 @@
                 window.requestAnimFrame = (function () {
                     return window.requestAnimationFrame || window.webkitRequestAnimationFrame || window.mozRequestAnimationFrame || window.oRequestAnimationFrame || window.msRequestAnimationFrame ||
                     function (callback) {
-                        window.setTimeout(callback, 500 / 60);
+                        window.setTimeout(callback, 1000 / 60)
                     }
                 })();
-                var totalDeg = 360 + 0;
+                var totalDeg = 360 * 3 + 0;
                 var steps = [];
                
                 var lostDeg = [360];
@@ -177,13 +177,13 @@
                 var prize, sncode;
                 var count = 0;
                 var now = 0;
-                var a = 0.1;
+                var a = 0.01;
                 var outter, inner, timer, running = false;
                 function countSteps() {
                     var t = Math.sqrt(2 * totalDeg / a);
                     var v = a * t;
                     for (var i = 0; i < t; i++) {
-                        steps.push((2 * v * i - a * i * i) / 2);
+                        steps.push((2 * v * i - a * i * i) / 2)
                     }
                     steps.push(totalDeg)
                 }
@@ -221,7 +221,7 @@
                     deg = deg || lostDeg[parseInt(lostDeg.length * Math.random())];
                     running = true;
                     clearInterval(timer);
-                    totalDeg = 360 + deg;
+                    totalDeg = 360 * 5 + deg;
                     steps = [];
                     now = 0;
                     countSteps();

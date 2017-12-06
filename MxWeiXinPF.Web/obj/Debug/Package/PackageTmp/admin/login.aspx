@@ -5,7 +5,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>锐步信息科技有限公司微信平台</title>
+<title>微信管理平台</title>
 <link href="skin/default/style.css" rel="stylesheet" type="text/css" />
 <script type="text/javascript" src="../scripts/jquery/jquery-1.10.2.min.js"></script>
 <script type="text/javascript">
